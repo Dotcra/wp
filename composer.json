@@ -1,0 +1,9 @@
+{
+    "name": "dotcra/wp",
+    "type": "project",
+    "description": "so I can use composer to install wordpress.",
+    "license": "GPL-2.0",
+    "require": {
+        "php": "^5.2.4 || ^7.0"
+    }
+}
